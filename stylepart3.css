@@ -1,0 +1,66 @@
+body{background-color: rgb(195, 231, 255);
+ background-image: url("cloud.jpeg");
+	background-repeat: repeat-x;
+	background-size: 100% auto;
+border:8px double rgb(62, 136, 174);
+}
+h2{font-family: "Lato";
+font-size: 36px;
+font-weight: 700px;
+text-align: center;
+margin-bottom: 60px;
+margin-top: 1px;
+padding-top: 3px;}
+
+body{background-color: rgb(195, 231, 255);
+ background-image: url("cloud.jpeg");
+	background-repeat: repeat-x;
+	background-size: 100% auto;
+border:8px double rgb(62, 136, 174);
+}
+
+h2{font-family: "Lato";
+font-size: 36px;
+font-weight: 700px;
+text-align: center;
+margin-bottom: 60px;
+margin-top: 1px;
+padding-top: 3px;}
+
+div{
+	align-content: center;
+	border: 10px inset rgba(62, 136, 174,50);
+margin: 9px;    }
+
+.Q1,
+ .Q2{align-content: center;
+ 	padding: 15px;
+ 	margin-left: 130px;
+ 	display: inline-block;
+	  }
+
+	  .Q3{align-content: center;
+ 	padding: 15px;
+ 	margin-left: 380px;
+ 	display: inline-block;
+ 	
+	 }
+
+	 .Q4,
+ .Q5{align-content: center;
+ 	margin-left: 120px;
+ 	display: inline-block;
+	  }
+
+	  .Q6{align-content: center;
+ 	margin-left: 380px;
+ 	display: inline-block;
+ 	
+	 }
+	 pre{text-align: center;
+background-color: rgb(62, 136, 174);
+font: 40px "Gill Sans";
+letter-spacing: 7px;}
+
+
+.button{border: none;}

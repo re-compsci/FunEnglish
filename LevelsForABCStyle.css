@@ -1,0 +1,62 @@
+
+
+*{
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+header{
+	background-color: rgb(62, 135, 174);
+	width: 100%;
+	position: fixed; 
+	z-index: 999; 
+	display: flex;
+	justify-content: space-between ;
+	align-items: center;
+	padding:10px 100px;
+}
+
+.logo{
+	text-decoration: none;
+	color: white;
+	font-weight: 600;
+	font-size: 1.8em;  
+
+}
+
+.logo:hover{
+	color: purple;
+}
+
+.navigation a{
+	text-decoration: none;
+	color: white;
+	font-weight: 400;
+	font-size: 1.1em; 
+	padding-left: 30px;
+
+}
+
+.navigation a:hover{
+	color: purple;
+}
+
+
+.levels a{
+	display: flex;
+	justify-content: center;
+	transition: 0.7s ;
+
+}
+ a:hover{
+	
+	transform: scale(1.1);
+}
+
+section{
+	padding-top: 130px;
+}
+
